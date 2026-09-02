@@ -1,6 +1,6 @@
-# DT508 Game Programming Supplemental Lab Test 2018 
+# Supplemental Lab Test 2026 
 
-Your job today is to make this sketch in Processing:
+Your task today is to make this sketch in Processing:
 
 [![YouTube](http://img.youtube.com/vi/FTHyQDovfsw/0.jpg)](https://www.youtube.com/watch?v=FTHyQDovfsw)
 
@@ -22,7 +22,5 @@ In your solution, you should use variables, functions with parameters, the if st
 
 Instructions:
 
-- Create a new blank Processing sketch and name it D123456_My_Name. Replace D123456 with your student number and My_Name with your name
-- Save often
-- You can references the [Processing website](http://processing,org) or any of the example sketches on the [course website](https://github.com/skooter500/GP-2017-2018)
-- When you are finished, submit your sketch via [Google Classroom](http://classroom.google.com). You can enroll using the code s3n06gw.
+- You can references the [Godot Website](http://processing,org) or any of the example sketches on the [Creative Coding](https://github.com/skooter500/cc26) [Computational Arts](https://github.com/skooter500/ca26) 
+- When you are finished, submit your zip file of your project to Brightspace
