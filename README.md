@@ -1,6 +1,6 @@
 # Supplemental Lab Test 2026 
 
-Your task today is to make this sketch in Godot:
+Your task is to make this in Godot:
 
 [![YouTube](http://img.youtube.com/vi/FTHyQDovfsw/0.jpg)](https://www.youtube.com/watch?v=FTHyQDovfsw)
 
@@ -22,5 +22,6 @@ In your solution, you should use variables, functions with parameters, the if st
 
 Instructions:
 - Start with an empty project
+
 - You can references the [Godot Website](http://godot.com) or any of the example sketches on the [Creative Coding](https://github.com/skooter500/cc26) [Computational Arts](https://github.com/skooter500/ca26) 
 - When you are finished, submit your zip file of your project to Brightspace
